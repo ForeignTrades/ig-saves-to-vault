@@ -16,3 +16,4 @@ _to_delete/
 venv/
 __pycache__/
 *.pyc
+publish.ps1
