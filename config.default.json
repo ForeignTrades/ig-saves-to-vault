@@ -1,0 +1,26 @@
+{
+  "vault_path": "auto",
+  "notes_folder": "Instagram Saves",
+  "instagram_username": "",
+
+  "max_downloads_per_run": 8,
+  "scan_limit": 50,
+  "initial_backfill_limit": 30,
+  "stop_after_known_streak": 5,
+  "min_delay_seconds": 25,
+  "max_delay_seconds": 70,
+
+  "whisper_model": "small",
+  "whisper_device": "auto",
+  "language": null,
+  "max_video_minutes": 25,
+
+  "brain": "auto",
+  "claude_model": "claude-sonnet-4-5",
+  "brain_timeout_seconds": 420,
+
+  "keep_videos": true,
+  "copy_video_to_vault": true,
+  "frame_count": 5,
+  "include_nonvideo": false
+}

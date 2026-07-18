@@ -1,0 +1,18 @@
+# Runtime state & secrets - never commit
+config.json
+session-*
+cookies*.txt
+state.json
+*.lock
+RUNLOG.md
+
+# Working data
+inbox/
+media/
+logs/
+_to_delete/
+
+# Environment
+venv/
+__pycache__/
+*.pyc
